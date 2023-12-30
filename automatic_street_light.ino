@@ -7,7 +7,7 @@ int sensorValue;
 
 void setup()
 {
-  pinMode(led,OUTPUT);
+  pinMode(light,OUTPUT);
   pinMode(sensorPin,INPUT);
 }
 
